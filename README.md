@@ -15,7 +15,7 @@ Sentinel | Network threat monitoring for small business | 🔨 building  |
 
 CyberLock | Attacers behavior simulation for blue team training | 🔨 building  |
 
-CipherP | Cybersecurity curriculm for kids | 🔨 building | 
+CipherPath | Cybersecurity curriculm for kids | 🔨 building | 
 
 PCheck | Security audit framework for gaming platforms | 🔨 building | 
 
