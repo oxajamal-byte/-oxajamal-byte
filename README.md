@@ -9,12 +9,18 @@ What I'm Building
 
 |project| what it does| status| 
 
-Warden | Phishing detection and URL danger scoring | 🔧 polishing | 
+| Warden | Phishing detection and URL danger scoring | 🔧 polishing | 
+
 Sentinel | Network threat monitoring for small business | 🔨 building  |
+
 CyberLock | Attacers behavior simulation for blue team training | 🔨 building  |
+
 CipherP | Cybersecurity curriculm for kids | 🔨 building | 
+
 PCheck | Security audit framework for gaming platforms | 🔨 building | 
+
 Trust Comms | Vulnerability scanner for community orgs | 🔨 building |
+
 ShadowLog | Personal SIEM with AI log analysis | 🔨 building |
 
 Tools 
